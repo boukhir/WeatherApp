@@ -3,6 +3,9 @@
 Pour utiliser ce site localement, votre interpréteur PHP doit avoir accès aux dll openssl et intl.
 Pour cela il suffit de décommenter les extensions *php_openssl.dll* et *php_intl.dll* de votre fichier *php.ini*.
 
+## Aperçu de l'app
+![WeatherApp](https://user-images.githubusercontent.com/118555996/210017143-c083617d-7e48-4649-8a74-2e7703fffb29.gif)
+
 ## Sources imposées
 - One Call API 3.0 pour obtenir des données météorologiques d'un point géographique : https://openweathermap.org/api/one-call-3
 - Le thème Flatly de Bootswatch pour le style principal du site : https://bootswatch.com/flatly/
